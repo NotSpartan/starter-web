@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Josip Batinić	josail.batinic9@gmail.com
 
 # THANKS
 
